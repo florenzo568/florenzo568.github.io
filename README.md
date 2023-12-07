@@ -1,6 +1,6 @@
 # Gameplay Programmer
 
-#### Technical Skills: C#, C++, Python, Unity, Adobe Photoshop
+#### Technical Skills: C#, C++, Python, Unity, Adobe Photoshop, Version Control
 
 ## Education
 Moorpark College ~ 2021 - current
@@ -22,7 +22,7 @@ During my time working on Boxed In I worked on such mechanics as climbing, patro
 
 ### Galaxy Divided
 <!--insert image/videos here-->
-
+Galaxy Divided is a 3rd person 3D 
 
 ### Prototype digital card game
 

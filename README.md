@@ -7,6 +7,9 @@ Moorpark College ~ 2021 - current
 
 ## Work Experience
 - DarkBurn Interactive - Gameplay Capture Artist ~ 2023 - current
+- Mind Factory Studios - Contract Programmer, Programming Consultant
+## Internship
+- Moorpark College - Programming Student Teacher, unity, C#, version control
 
 ## Projects
 

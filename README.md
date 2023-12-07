@@ -36,8 +36,20 @@ Lead programmer as well as stepping into a producer role for the last 2 months o
 Developed a robust shop system, Advanced player movement mechanics, weapon and item systems, and Code refactoring.
 
 ### Prototype digital card game
+<!--insert image/videos here-->
+This project was a digital card game developed as apart of my school sanctioned game design intership with my professor Johnathan Bair with the overall goal of expanding my programming skillset and producing a vertical slice proof of concept.
+
+For this project I developed a flexible card abstract class system to streamline new card implementations
+
+I also created light rouge-lite elements with a interactive boss enemy using vector math and the unity animator.
 
 ### World War Zoo
 
 ### Aila
+#### Gameplay/Systems Programmer
 <!--insert image/videos here-->
+Alia was a 2D farming and resource managment game built over 3 weeks for my Game Technology 1 class
+
+Developed in a team of 5 with a striking visual style and impressive atmosphere
+
+Apart of this project I worked on everything from basic movement, resource collections, building, general systems, and team wide development tools.

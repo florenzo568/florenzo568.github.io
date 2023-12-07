@@ -8,6 +8,7 @@ Moorpark College ~ 2021 - current
 ## Work Experience
 - DarkBurn Interactive - Gameplay Capture Artist ~ 2023 - current
 - Mind Factory Studios - Contract Programmer, Programming Consultant
+  
 ## Internship
 - Moorpark College - Programming Student Teacher, unity, C#, version control
 
@@ -28,6 +29,8 @@ During my time working on Boxed In I worked on such mechanics as climbing, patro
 Galaxy Divided is a 3rd person 3D shooter taking place on an alien planet as you fight off a corrupt government. Using rouge like elements
 
 Developed over 4 months as a part of my capstone Game Design Studio project.
+
+Developed a robust shop system 
 
 ### Prototype digital card game
 

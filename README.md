@@ -1,5 +1,7 @@
 # Gameplay Programmer
 
+#### Technical Skills: C#, C++, Python, Unity, Adobe Photoshop
+
 ## Education
 Moorpark College ~ 2021 - current
 

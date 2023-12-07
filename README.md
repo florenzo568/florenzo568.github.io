@@ -1,4 +1,4 @@
-# Lorenzo Fernandez
+# Gameplay Programmer
 
 ## Education
 Moorpark College ~ 2021 - current

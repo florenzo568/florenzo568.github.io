@@ -36,7 +36,8 @@ Lead programmer as well as stepping into a producer role for the last 2 months o
 Developed a robust shop system, Advanced player movement mechanics, weapon and item systems, and Code refactoring.
 
 ### Prototype digital card game
-<!--insert image/videos here-->
+![](assets/CardGameBoss.gif)
+
 This project was a digital card game developed as apart of my school sanctioned game design intership with my professor Johnathan Bair with the overall goal of expanding my programming skillset and producing a vertical slice proof of concept.
 
 For this project I developed a flexible card abstract class system to streamline new card implementations

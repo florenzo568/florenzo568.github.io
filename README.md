@@ -3,20 +3,21 @@
 #### Technical Skills: C#, C++, Python, Unity, Adobe Photoshop, Version Control
 
 ## Education
-Moorpark College ~ 2021 - current
+Moorpark College ~ 2021 - Current
 
 ## Work Experience
-- DarkBurn Interactive - Gameplay Capture Artist ~ 2023 - current
-- Mind Factory Studios - Contract Programmer, Programming Consultant
+- DarkBurn Interactive - Gameplay Capture Artist ~ 2023 - Current
+- Mind Factory Studios - Contract Programmer, Programming Consultant ~ 2023 - Current
   
 ## Internship
-- Moorpark College - Programming Student Teacher, unity, C#, version control
+- Moorpark College - Programming Student Teacher - unity, C#, version control ~ 2023 - Current
 
 ## Projects
 
 ### Boxed In
 #### Gameplay/Systems programmer
 <!--insert image/videos here-->
+<iframe frameborder="0" src="https://itch.io/embed/2075813" width="552" height="167"><a href="https://heroshrine.itch.io/boxed-in">Boxed In by Heroshrine, ImCrowley, batmanlm_8</a></iframe>
 
 Boxed In is a 3D platformer vertical slice about a cat escaping the twisted science expiriments of his handler, Dr.Schrodinger.
 
@@ -47,6 +48,8 @@ I also created light rouge-lite elements with a interactive boss enemy using vec
 ### World War Zoo
 
 ### Aila
+<!--insert image/videos here-->
+
 #### Gameplay/Systems Programmer
 <!--insert image/videos here-->
 Alia was a 2D farming and resource managment game built over 3 weeks for my Game Technology 1 class

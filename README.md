@@ -22,7 +22,9 @@ During my time working on Boxed In I worked on such mechanics as climbing, patro
 
 ### Galaxy Divided
 <!--insert image/videos here-->
-Galaxy Divided is a 3rd person 3D 
+Galaxy Divided is a 3rd person 3D shooter taking place on an alien planet as you fight off a corrupt government. Using rouge like elements
+
+Developed over 4 months as a part of my capstone Game Design Studio project.
 
 ### Prototype digital card game
 

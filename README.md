@@ -9,5 +9,21 @@ Moorpark College ~ 2021 - current
 ## Projects
 
 ### Boxed In
+#### Gameplay/Systems programmer
+<!--insert image/videos here-->
+
+Boxed In is a 3D platformer vertical slice about a cat escaping the twisted science expiriments of his handler, Dr.Schrodinger.
+
+Developed in 4 months as a part of my game technologies 2 class, boxed in was developed by a team of 10 students, 2 programmers (including myself), 4 artists, and 4 designers.
+
+During my time working on Boxed In I worked on such mechanics as climbing, patroling robots, ui functionality and various tools for the development team.
+
+### Galaxy Divided
+<!--insert image/videos here-->
 
 
+### Prototype digital card game
+
+### World War Zoo
+
+### Aila

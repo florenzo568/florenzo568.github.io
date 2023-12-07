@@ -46,9 +46,17 @@ For this project I developed a flexible card abstract class system to streamline
 I also created light rouge-lite elements with a interactive boss enemy using vector math and the unity animator.
 
 ### World War Zoo
+#### Gameplay Programmer
+
+<iframe frameborder="0" src="https://itch.io/embed/2160330" width="552" height="167"><a href="https://heroshrine.itch.io/world-war-zoo">World War Zoo by Heroshrine, DocDankDandy, batmanlm_8, Bluevoker, MayoMiu, vanipurin</a></iframe>
+
+World War Zoo is a 3D isometric tower offense game where you play as an omnipotent being sending cryptid to defend the local forest and wilderness against urbanization efforts.
+
+Developed in a team of 8 over 48 hours for the 2023 GMTK gamejam with the theme of Roles Reversed.
+
+As a core gameplay programmer I was focused on developing systems relating to player units, enemy towers, and other core systems.
 
 ### Aila
-<!--insert image/videos here-->
 
 #### Gameplay/Systems Programmer
 <!--insert image/videos here-->

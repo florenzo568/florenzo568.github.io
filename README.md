@@ -27,7 +27,7 @@ During my time working on Boxed In I worked on such mechanics as climbing, patro
 
 ### Galaxy Divided
 #### Lead Gameplay Programmer/Producer
-<!--insert image/videos here-->
+![](assets/GDSS1.PNG)
 Galaxy Divided is a 3rd person 3D shooter taking place on an alien planet as you fight off a corrupt government. Using rouge like elements
 
 Developed over 4 months as a part of my capstone Game Design Studio project with a development team of 15 people.

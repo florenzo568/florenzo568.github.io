@@ -66,3 +66,12 @@ Alia was a 2D farming and resource managment game built over 3 weeks for my Game
 Developed in a team of 5 with a striking visual style and impressive atmosphere
 
 Apart of this project I worked on everything from basic movement, resource collections, building, general systems, and team wide development tools.
+
+
+## Contact Me
+### Linked In
+
+[LinkedIn](www.linkedin.com/in/lorenzo-fernandez-878396204)
+### Email
+
+florenzo568@gmail.com

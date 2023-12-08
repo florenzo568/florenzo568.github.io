@@ -59,7 +59,7 @@ As a core gameplay programmer I was focused on developing systems relating to pl
 ### Aila
 
 #### Gameplay/Systems Programmer
-![](assets/CardGameBoss.gif)
+![](assets/AliaSS1.PNG)
 Alia was a 2D farming and resource managment game built over 3 weeks for my Game Technology 1 class
 
 Developed in a team of 5 with a striking visual style and impressive atmosphere

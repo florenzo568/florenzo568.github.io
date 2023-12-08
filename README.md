@@ -74,4 +74,4 @@ Apart of this project I worked on everything from basic movement, resource colle
 [LinkedIn](www.linkedin.com/in/lorenzo-fernandez-878396204)
 ### Email
 
-florenzo568@gmail.com
+<florenzo568@gmail.com>

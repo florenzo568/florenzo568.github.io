@@ -16,14 +16,15 @@ Moorpark College ~ 2021 - Current
 
 ### Boxed In
 #### Gameplay/Systems programmer
-<!--insert image/videos here-->
-<iframe frameborder="0" src="https://itch.io/embed/2075813" width="552" height="167"><a href="https://heroshrine.itch.io/boxed-in">Boxed In by Heroshrine, ImCrowley, batmanlm_8</a></iframe>
+![](assets/BoxedInSS.PNG)
 
 Boxed In is a 3D platformer vertical slice about a cat escaping the twisted science expiriments of his handler, Dr.Schrodinger.
 
 Developed in 4 months as a part of my game technologies 2 class, boxed in was developed by a team of 10 students, 2 programmers (including myself), 4 artists, and 4 designers.
 
 During my time working on Boxed In I worked on such mechanics as climbing, patroling robots, ui functionality and various tools for the development team.
+
+<iframe frameborder="0" src="https://itch.io/embed/2075813" width="552" height="167"><a href="https://heroshrine.itch.io/boxed-in">Boxed In by Heroshrine, ImCrowley, batmanlm_8</a></iframe>
 
 ### Galaxy Divided
 #### Lead Gameplay Programmer/Producer
